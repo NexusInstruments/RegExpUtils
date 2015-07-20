@@ -102,7 +102,7 @@ Finds all matches of a specific Regular Expression contains in a string.
 
 #####Returns: _table of strings_ or _nil_
 
-###RegExp.finditer(regex, str, pos, flags)
+###RegExp.finditer(regex, str, [pos], [flags])
 Finds the first match of a specific Regular Expression contains in a string and returns an iterator object that can be iterated through all matches
 
 #####Parameters:
