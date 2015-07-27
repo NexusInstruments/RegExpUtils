@@ -239,3 +239,7 @@ Returns the begining and end positions of a match within a string based on the "
 
 **hex-number:**
 * STRING THAT MATCHES REGEX ```/[0-9A-Fa-f]{1,2}/```
+
+
+**Licensed under MIT License**
+Copyright (c) 2015 NexusInstruments
